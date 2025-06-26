@@ -106,12 +106,6 @@ In India, thousands of lives are lost every year due to delayed emergency respon
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## Acknowledgments
 
 We extend our gratitude to our mentors and institutions for their support, and to all open-source developers whose work helped make this project possible.
